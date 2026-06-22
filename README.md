@@ -35,13 +35,31 @@ Here are some ideas to get you started:-->
 ![](https://streak-stats.demolab.com/?user=Nishtha-55&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nishtha-55&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nishtha-55&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nishtha-55&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Nishtha-55&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nishtha-55&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✍️ Dev Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+[![NISHTHA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishtha-55&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+⭐ *If you like what you see, consider starring some of my repos!* ⭐
+
+</div>
