@@ -1,3 +1,28 @@
+<div align="center">
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nishtha%20Srivastava&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Curious%20Teckei%20%7C%20DSA%20Driven%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+Student+%F0%9F%8E%93;DSA+Driven+%26+Problem+Solver+%F0%9F%A4%96;FOSS+Club+Coordinator+%F0%9F%94%A5;Building+the+Future+with+AI+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+[![](https://komarev.com/ghpvc/?username=Nishtha-55&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Nishtha-55)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Nishtha-55?style=for-the-badge&color=blueviolet&logo=github)](https://github.com/Nishtha-55)
+
+</div>
+
+---
+
+
+
+
+
 ## Hello 👋 , I'm Nishtha !
 
 
