@@ -71,11 +71,11 @@ Here are some ideas to get you started:-->
 <img src="gssoc-badge-rising_star.png" width="200px" alt="Rising Star"/>
 <img src="gssoc-badge-power_contributor.png" width="200px" alt="Power Contributor"/>
   <img src="gssoc-badge-bounty_hunter.png" width="200px" alt="Bounty Hunter"/>
+   <img src="gssoc-badge-point_scorer.png" width="200px" alt="Point Scorer"/>
+    <img src="gssoc-badge-role_contributor.png" width="200px" alt="Contributor"/>
   <img src="gssoc-badge-discord_verified.png" width="200px" alt="Discord Verified"/>
   <img src="gssoc-badge-first_steps.png" width="200px" alt="First Step"/>
   <img src="gssoc-badge-getting_started.png" width="200px" alt="Getting Started"/>
-  <img src="gssoc-badge-point_scorer.png" width="200px" alt="Point Scorer"/>
-  <img src="gssoc-badge-role_contributor.png" width="200px" alt="Contributor"/>
  
   <br><br>
   
