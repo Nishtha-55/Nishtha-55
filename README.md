@@ -65,7 +65,11 @@ Here are some ideas to get you started:-->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nishtha-55&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+<<<<<<< HEAD
 ## 🏅 GSSoC '26 Badges
+=======
+##  🏅 GSSoC '26 Badges
+>>>>>>> 54637b1 (Add GitHub Arcade badges)
 
 <div align="center">
 <img src="gssoc-badge-rising_star.png" width="200px" alt="Rising Star"/>
@@ -86,7 +90,26 @@ Here are some ideas to get you started:-->
 
 ---
 
+##  🏅 Google Arcade'26 Badges
 
+<div align="center">
+<img src="Holistic Infrastructures.png" width="200px" alt="Holistic "/>
+<img src="Jan Trivia.png" width="200px" alt="trivia"/>
+  <img src="March Sprint .png" width="200px" alt="Sprint"/>
+  <img src="March Sprint.png" width="200px" alt="MArch Sprint "/>
+  <img src="Nov Level3.png" width="200px" alt="November"/>
+  <img src="Oct Level3.png" width="200px" alt="Level3"/>
+  <img src="Trail.png" width="200px" alt="Trail"/>
+  <img src="Work Meets play .png" width="200px" alt="work"/>
+ 
+  <br><br>
+  
+  <a href="https://www.skills.google/public_profiles/5a00b401-5cca-479b-86d8-f3f2c9f9e7c9">
+    <img src="https://img.shields.io/badge/View%20Google Arcade%20Profile-FF6B35?style=for-the-badge&logo=girlscript&logoColor=white"/>
+  </a>
+</div>
+
+---
 
 
 ## 📈 Contribution Graph
