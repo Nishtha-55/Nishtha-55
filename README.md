@@ -66,7 +66,6 @@ Here are some ideas to get you started:-->
 
 ---
 ##  🏅 GSSoC '26 Badges
->>>>>>> 54637b1 (Add GitHub Arcade badges)
 
 <div align="center">
 <img src="gssoc-badge-rising_star.png" width="200px" alt="Rising Star"/>
