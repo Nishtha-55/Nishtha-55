@@ -65,7 +65,7 @@ Here are some ideas to get you started:-->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nishtha-55&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-## ## 🏅 GSSoC '26 Badges
+## 🏅 GSSoC '26 Badges
 
 <div align="center">
 <img src="gssoc-badge-rising_star.png" width="200px" alt="Rising Star"/>
