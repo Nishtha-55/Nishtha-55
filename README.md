@@ -65,9 +65,24 @@ Here are some ideas to get you started:-->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nishtha-55&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-## 🏆 GitHub Trophies
+## ## 🏅 GSSoC '26 Badges
 
-![](https://github-profile-trophy.vercel.app/?username=Nishtha-55&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+<div align="center">
+<img src="gssoc-badge-rising_star.png" width="200px" alt="Rising Star"/>
+<img src="gssoc-badge-power_contributor.png" width="200px" alt="Power Contributor"/>
+  <img src="gssoc-badge-bounty_hunter.png" width="200px" alt="Bounty Hunter"/>
+  <img src="gssoc-badge-discord_verified.png" width="200px" alt="Discord Verified"/>
+  <img src="gssoc-badge-first_steps.png" width="200px" alt="First Step"/>
+  <img src="gssoc-badge-getting_started.png" width="200px" alt="Getting Started"/>
+  <img src="gssoc-badge-point_scorer.png" width="200px" alt="Point Scorer"/>
+  <img src="gssoc-badge-role_contributor.png" width="200px" alt="Contributor"/>
+ 
+  <br><br>
+  
+  <a href="https://gssoc.girlscript.org/profile/9b600d3e-1b63-4c12-a5e2-8b0aa3ee3b2d">
+    <img src="https://img.shields.io/badge/View%20GSSoC%20Profile-FF6B35?style=for-the-badge&logo=girlscript&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
