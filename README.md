@@ -69,7 +69,7 @@ Here are some ideas to get you started:-->
 </div>
 
 ---
-##  🏅 GSSoC '26 Badges
+#  🏅 GSSoC '26 Badges
 
 <div align="center">
 <img src="gssoc-badge-rising_star.png" width="200px" alt="Rising Star"/>
@@ -90,7 +90,7 @@ Here are some ideas to get you started:-->
 
 ---
 
-##  🏅 Google Arcade Badges
+#  🏅 Google Arcade Badges
 
 <div align="center">
 <img src="Holistic Infrastructures.png" width="200px" alt="Holistic "/>
@@ -112,7 +112,7 @@ Here are some ideas to get you started:-->
 ---
 
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 [![NISHTHA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishtha-55&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
