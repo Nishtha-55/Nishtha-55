@@ -110,8 +110,18 @@ Here are some ideas to get you started:-->
 </div>
 
 ---
+#  🏅 Hackerrank Badges
 
+<div align="center">
 
+ <br><br>
+  
+  <a href="https://www.hackerrank.com/profile/nishthasrivasta3">
+    <img src="https://img.shields.io/badge/View%20Hackerrank%20Profile-FF6B35?style=for-the-badge&logo=girlscript&logoColor=white"/>
+  </a>
+</div>
+
+---
 # 📈 Contribution Graph
 
 <div align="center">
