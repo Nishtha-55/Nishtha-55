@@ -59,10 +59,14 @@ Here are some ideas to get you started:-->
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nishtha-55&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nishtha-55&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nishtha-55&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=Nishtha-55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nishtha-55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9&count_private=true" height="165"/>
+<br/><br/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Nishtha-55&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF&count_private=true" />
+</div>
 
 ---
 ##  🏅 GSSoC '26 Badges
