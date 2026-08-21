@@ -86,7 +86,7 @@ Here are some ideas to get you started:-->
 
 ---
 
-##  🏅 Google Arcade'26 Badges
+##  🏅 Google Arcade Badges
 
 <div align="center">
 <img src="Holistic Infrastructures.png" width="200px" alt="Holistic "/>
