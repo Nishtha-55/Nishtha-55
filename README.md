@@ -122,6 +122,16 @@ Here are some ideas to get you started:-->
 </div>
 
 ---
+# 📊 GitHub Overview
+
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishtha-55&theme=tokyonight" 
+    width="100%"
+  />
+</div>
+
+---
 
 <div align="center">
 
