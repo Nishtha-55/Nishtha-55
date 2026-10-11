@@ -118,7 +118,7 @@ Here are some ideas to get you started:-->
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishtha-55&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00F5FF&line=FF2E9F&count_private=true" width="100%"/>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Nishtha-55&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00F5FF&line=FF2E9F" width="100%"/>
 </div>
 
 ---
